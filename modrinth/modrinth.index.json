@@ -261,21 +261,6 @@
         },
         {
             "downloads":[
-                "https://cdn.modrinth.com/data/otVJckYQ/versions/Hvp3zWWg/citresewn-1.1.3%2B1.20.4.jar"
-            ],
-            "env":{
-                "client":"optional",
-                "server":"unsupported"
-            },
-            "fileSize":387424,
-            "hashes":{
-                "sha1":"15ab79e8ab338f23590a70bb40b16296f5b9bf2a",
-                "sha512":"336cc099b23579759b0a0001a88edd4ca54adcfdb43aea92a58ed6f6ec1aa9cc5f15508b80b9433ac043b2425477d5c1c8d6b1ef0c381d7f10f1392d5393cf95"
-            },
-            "path":"mods/citresewn-1.1.3+1.20.4.jar"
-        },
-        {
-            "downloads":[
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar"
             ],
             "env":{
